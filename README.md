@@ -15,6 +15,7 @@
 - ☁️ Experienced in **Microsoft Azure**, **Kafka**, and both **SQL** and **NoSQL** databases
 - 👥 Hands-on Agile & Scrum facilitation experience
 
+> ⚠️ **Note:** I lost access to my previous GitHub account — this is a new profile. I'm actively rebuilding it with fresh projects and contributions.
 
 ---
 
