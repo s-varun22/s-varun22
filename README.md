@@ -10,7 +10,7 @@
 
 - 🌍 Based in **Stuttgart, Germany**
 - 🛠️ Currently open for new opportunities
-- 🧠 Strong focus on clean architecture, team leadership, and agile delivery
+- 💡 Passionate about designing maintainable systems, mentoring teams, and delivering business value through robust code
 - ☁️ Skilled in cloud platforms like **Microsoft Azure** and CI/CD automation
 
 ---
@@ -38,6 +38,6 @@
 🎨 Frontend:  React, Angular, Bootstrap, HTML, CSS
 🧪 Database:  MongoDB, PostgreSQL, MySQL
 🛠️ Tools:     Git, Maven, Gradle, JIRA, Jenkins, Confluence
-☁️ Cloud:     Microsoft Azure, Linux, Docker
+☁️ Cloud:     Microsoft Azure, Linux, Docker, Kubernetes
 🧠 Other:     Agile/Scrum, SDLC, CI/CD
 
