@@ -10,7 +10,7 @@
 
 - 🌍 Based in **Stuttgart, Germany**
 - 🛠️ Currently open for new opportunities
-- 💡 Passionate about designing maintainable systems, mentoring teams, and delivering business value through robust code
+- 💡 Passionate about designing maintainable systems, mentoring, and delivering business value through robust code
 - ☁️ Skilled in cloud platforms like **Microsoft Azure** and CI/CD automation
 
 ---
