@@ -1,43 +1,46 @@
 # 👋 Hi, I'm Varun Srivastava
 
-**Full Stack Java Developer | Agile Practitioner | Cloud Enthusiast**
+**Backend-Focused Full Stack Java Developer | Agile Practitioner | Actively Seeking New Opportunities**
 
-🔧 I specialize in building scalable web applications using **Spring Boot**, **React**, **Angular**, and **Azure**. With over 8 years of experience across Germany, Malaysia, and India, I’ve led projects in insurance, research, and enterprise systems.
+🔧 I design and build scalable, enterprise-grade backend systems using **Java**, **Spring Boot**, and **REST APIs**, complemented by hands-on frontend development with **React** and **Angular**. With 7+ years of experience across Germany, Malaysia, and India in insurance, customer service, and research domains, I deliver production-ready solutions from end to end.
 
 ---
 
 ## 🔍 About Me
 
 - 🌍 Based in **Stuttgart, Germany**
-- 🛠️ Currently open for new opportunities
+- 💼 **Open to Backend / Full Stack Developer roles** (relocation or remote)
+- ⚙️ Skilled in backend-heavy systems with full-stack delivery responsibilities
 - 💡 Passionate about designing maintainable systems, mentoring, and delivering business value through robust code
-- ☁️ Skilled in cloud platforms like **Microsoft Azure** and CI/CD automation
+- ☁️ Experienced in **Microsoft Azure**, **Kafka**, and both **SQL** and **NoSQL** databases
+- 👥 Hands-on Agile & Scrum facilitation experience
+
 
 ---
 
 ## 💼 Experience Highlights
 
 - **Full-Stack Developer @ Stuttgarter Versicherung**
-  - Migrated legacy JSF app to modern **Spring Boot + React**
-  - Responsible for the design of the subject-specific applications and conversion of the system design
+  - Migrated legacy insurance JSF application to a modern **Spring Boot + React** stack.
+  - Responsible for the design of backend architecture and conversion of the system design with a focus on performance and maintainability.
 
 - **Full-Stack Developer @ Futurice**
-  - Built customer support tools using **Kafka Streams**, **MongoDB**, **React**, and **Azure**
-  - Increased delivery speed by 30% through automation and agile enhancements
+  - Built customer support tools using **Kafka Streams**, **MongoDB**, **React**, and **Azure**.
+  - Developed microservices using **Spring Boot**, **MongoDB**, **Kafka Streams**.
+  - Facilitated agile practices and technical planning for cross-functional teams.
 
 - **Software Developer @ MSIG Insurance**
-  - Reduced claims processing time by 40% with a custom **Angular + Java** portal
-  - Lead the development team of Claims Management System to streamline and automate manual claim approval process
+  - Streamlined claims processing system using **Java**, **MySQL**, **BPM**, and **Spring**
+  - Reduced manual overhead and accelerated approval processes through backend workflow automation.
 
 ---
 
 ## 🚀 Tech Stack
 
 ```yaml
-💻 Backend:   Java, Spring Boot, REST, Kafka, Node.js
+💻 Backend:   Java, Spring Boot, REST, Kafka, Node.js, BPM (Cordys)
 🎨 Frontend:  React, Angular, Bootstrap, HTML, CSS
 🧪 Database:  MongoDB, PostgreSQL, MySQL
-🛠️ Tools:     Git, Maven, Gradle, JIRA, Jenkins, Confluence
-☁️ Cloud:     Microsoft Azure, Linux, Docker, Kubernetes
-🧠 Other:     Agile/Scrum, SDLC, CI/CD
-
+🛠️ Dev Tools: Git, Maven, Gradle, JIRA, Jenkins, Confluence
+☁️ Cloud:     Microsoft Azure, Docker, Kubernetes
+🧠 Practices: Agile/Scrum, SDLC, CI/CD, Microservices
