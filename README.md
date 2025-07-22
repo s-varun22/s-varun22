@@ -40,7 +40,7 @@
 
 ```yaml
 💻 Backend:   Java, Spring Boot, REST, Kafka, Node.js, BPM (Cordys)
-🎨 Frontend:  React, Angular, Bootstrap, HTML, CSS
+🎨 Frontend:  React, Angular, Bootstrap, Tailwind, HTML, CSS
 🧪 Database:  MongoDB, PostgreSQL, MySQL
 🛠️ Dev Tools: Git, Maven, Gradle, JIRA, Jenkins, Confluence
 ☁️ Cloud:     Microsoft Azure, Docker, Kubernetes
