@@ -33,6 +33,10 @@
 - **Software Developer @ MSIG Insurance**
   - Streamlined claims processing system using **Java**, **MySQL**, **BPM**, and **Spring**
   - Reduced manual overhead and accelerated approval processes through backend workflow automation.
+ 
+- **Software Developer @ Wipro Technology**
+  - Developed and customized payment portals using **Java**, **MySQL**, **Angular 2**, and **Spring**
+  - Automated legal PDF document processing; enhanced user interaction.
 
 ---
 
