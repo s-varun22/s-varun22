@@ -21,6 +21,11 @@
 
 ## 💼 Experience Highlights
 
+- **Frontend Developer @ Freelancer (Remote)**  
+  - Delivered responsive web apps using **React, Next.js, Tailwind CSS, Node.js**.  
+  - Translated Figma designs into reusable UI components.  
+  - Integrated RESTful APIs, ensuring accessibility and cross-browser support.  
+
 - **Full-Stack Developer @ Stuttgarter Versicherung**
   - Migrated legacy insurance JSF application to a modern **Spring Boot + React** stack.
   - Responsible for the design of backend architecture and conversion of the system design with a focus on performance and maintainability.
