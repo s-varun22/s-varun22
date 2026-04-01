@@ -21,6 +21,12 @@
 
 ## 💼 Experience Highlights
 
+- **Full-Stack Developer @ SAP SE**
+  - Built and maintained backend services with **Java Spring Boot** for scalable enterprise applications.
+  - Improved communication between microservices by enriching event payloads with relevant metadata.  
+  - Optimized backend workflows to improve performance and reduce processing time.
+  - Contributed to frontend enhancements in SAP UI5 and added automated end-to-end test coverage.
+
 - **Frontend Developer @ Freelancer (Remote)**  
   - Delivered responsive web apps using **React, Next.js, Tailwind CSS, Node.js**.  
   - Translated Figma designs into reusable UI components.  
@@ -49,7 +55,7 @@
 
 ```yaml
 💻 Backend:   Java, Spring Boot, REST, Kafka, Node.js, BPM (Cordys)
-🎨 Frontend:  React, Angular, Bootstrap, Tailwind, HTML, CSS
+🎨 Frontend:  React, SAP UI5, NextJS, Tailwind, Angular, Bootstrap, Tailwind, HTML, CSS
 🧪 Database:  MongoDB, PostgreSQL, MySQL
 🛠️ Dev Tools: Git, Maven, Gradle, JIRA, Jenkins, Confluence
 ☁️ Cloud:     Microsoft Azure, Docker, Kubernetes
